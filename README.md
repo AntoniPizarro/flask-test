@@ -2,8 +2,8 @@
 
 Prueba para comprobar lo que quieras comprobar con un proyecto super simple
 
-Se necesita instalar flask y flask_cors:
+Se necesita instalar requirements:
 
 ```
-pip install flask flask_cors
+pip install -r requirements.txt
 ```
